@@ -10,10 +10,11 @@ PROCESSED_DIR = DATA_DIR / "processed"
 
 # URL del "ERP" (dataset público en GitHub)
 DATA_URL = (
-    "https://raw.githubusercontent.com/"
-    "raghav19980730/DataCo-Supply-Chain-Goods-Delivery-Prediction/"
-    "main/DescriptionDataCoSupplyChain.csv"
+    "https://raw.githubusercontent.com/raghav19980730/"
+    "DataCo-Supply-Chain-Goods-Delivery-Prediction/"
+    "main/DataCoSupplyChainDataset.csv"
 )
+
 
 # Nombre del archivo local
 RAW_FILENAME = "DataCoSupplyChain.csv"
